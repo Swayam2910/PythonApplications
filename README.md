@@ -14,4 +14,5 @@ Plotter is a program desgined using plotly and cufflink library in which the use
 
 
 ## Plotting using GeoJson
+# The following code gives best output in jupyter notebook. 
 GeoJson is a format designed for representing simple geographical features. This project involves plotting the map of India where each state is attributed with different colour according to the severity of COVID-19 in that state. As the cursor is kept on the state, total number of confirmed cases, deaths and active cases are shown. The choropleth map has been used for the same in which set of pre-defined areas are colored or patterned in proportion to a statistical variable. 
